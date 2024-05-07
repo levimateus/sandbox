@@ -1,6 +1,6 @@
 <?php
 
-$name = 'John doe';
+$name = 'William Shakespeare';
 
 if (empty($name)) {
     $name = "someone";
