@@ -8,3 +8,5 @@ if (empty($name)) {
 }
 
 echo "Hello world " . $name;
+
+fclose($f);
