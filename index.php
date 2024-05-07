@@ -1,4 +1,5 @@
 <?php
+$f = fopen('config.ini', 'r');
 
 $name = 'John doe';
 
