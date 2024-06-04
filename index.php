@@ -9,4 +9,6 @@ if (empty($name)) {
 
 echo "Hello world " . $name;
 
+echo "changed";
+
 fclose($f);
